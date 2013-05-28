@@ -3,8 +3,8 @@
 	"description": "This app allows you to check your battery levels!",
 	"launch_path": "/index.html",
 	"developer": { 
-		"name": "Rob Lauer", 
-		"url": "http://roblauer.me"
+		"name": "Eddie Wong", 
+		"url": "http://ffos-sample.herokuapp.com/"
 	}, 
 	"icons": { 
 		"16": "/img/icon16.png",
