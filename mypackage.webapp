@@ -1,0 +1,9 @@
+{
+	"name": "Check Battery",
+	"package_path" : "http://somewhere.com/awesome.zip",
+	"version": "1",
+	"developer": {
+		"name": "Eddie Wong",
+		"url": "http://ffos-sample.herokuapp.com/"
+	}
+}
